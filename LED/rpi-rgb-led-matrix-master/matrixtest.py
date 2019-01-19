@@ -6,6 +6,7 @@
 # Requires rgbmatrix.so present in the same directory.
 
 import time
+#import rgbmatrix
 from rgbmatrix import Adafruit_RGBmatrix
 
 # Rows and chain length are both required parameters:
